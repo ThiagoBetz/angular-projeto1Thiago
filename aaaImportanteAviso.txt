@@ -1,0 +1,11 @@
+Para acessar o projeto digite: 
+
+https://github.com/ThiagoBetz/angular-projeto1Thiago.git
+
+cd angular-projeto1Thiago
+
+code .
+
+npm i
+
+ng serve -o
