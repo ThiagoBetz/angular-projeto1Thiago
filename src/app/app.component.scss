@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-size: 42pt;
+}
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  flex-grow: 2;
+}
+
+.flex-item{
+  background-color: red;
+  font-size: 30px;
+}
+
+.flex-item1{
+  flex-grow: 1;
+}
+.flex-item2{
+  flex-shrink: 2;
+}
+.flex-item3{
+  flex-shrink: 2;
+}
+
+
+
